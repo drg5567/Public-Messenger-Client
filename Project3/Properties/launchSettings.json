@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Messenger": {
+      "commandName": "Project",
+      "commandLineArgs": "getMsg drg5567@cs.rit.edu",
+      "workingDirectory": "C:\\Users\\gardn\\OneDrive\\Documents\\Courses\\COPADS\\Project3\\Project3"
+    }
+  }
+}
