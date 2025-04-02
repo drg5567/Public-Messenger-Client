@@ -98,8 +98,9 @@ namespace Project3
     /// </summary>
     class MessageClient
     {
-        private string keyLink = "http://kayrun.cs.rit.edu:5000/Key/";
-        private string messageLink = "http://kayrun.cs.rit.edu:5000/Message/";
+        // Keys and messages were stored on separate servers. Original server links have been removed
+        private string keyLink = "";
+        private string messageLink = "";
         private HttpClient client;
 
         public MessageClient()
