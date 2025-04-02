@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Project3/public.key
+/Project3/private.key
+/Project3/jsb@cs.rit.edu.key
+/Project3/dep2550@cs.rit.edu.key
